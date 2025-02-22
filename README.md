@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cbrox94
-- 👀 I’m interested in Data Science / Data analytics / Investment Calculations / Software Development
+- 👀 I’m interested in Data Science / Data analytics / Economics / Software Development
 - 🌱 I’m currently learning Streamlit
 - 💞️ I’m looking to collaborate on small coding projects in Data Analytics area
 - 📫 How to reach me DC: cbrox1994
